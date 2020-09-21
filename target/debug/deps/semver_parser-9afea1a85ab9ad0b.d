@@ -1,0 +1,11 @@
+/Users/abdirrahman/Desktop/rustsgame/target/debug/deps/semver_parser-9afea1a85ab9ad0b.rmeta: /Users/abdirrahman/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-parser-0.7.0/src/lib.rs /Users/abdirrahman/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-parser-0.7.0/src/version.rs /Users/abdirrahman/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-parser-0.7.0/src/range.rs /Users/abdirrahman/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-parser-0.7.0/src/common.rs /Users/abdirrahman/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-parser-0.7.0/src/recognize.rs
+
+/Users/abdirrahman/Desktop/rustsgame/target/debug/deps/libsemver_parser-9afea1a85ab9ad0b.rlib: /Users/abdirrahman/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-parser-0.7.0/src/lib.rs /Users/abdirrahman/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-parser-0.7.0/src/version.rs /Users/abdirrahman/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-parser-0.7.0/src/range.rs /Users/abdirrahman/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-parser-0.7.0/src/common.rs /Users/abdirrahman/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-parser-0.7.0/src/recognize.rs
+
+/Users/abdirrahman/Desktop/rustsgame/target/debug/deps/semver_parser-9afea1a85ab9ad0b.d: /Users/abdirrahman/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-parser-0.7.0/src/lib.rs /Users/abdirrahman/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-parser-0.7.0/src/version.rs /Users/abdirrahman/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-parser-0.7.0/src/range.rs /Users/abdirrahman/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-parser-0.7.0/src/common.rs /Users/abdirrahman/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-parser-0.7.0/src/recognize.rs
+
+/Users/abdirrahman/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-parser-0.7.0/src/lib.rs:
+/Users/abdirrahman/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-parser-0.7.0/src/version.rs:
+/Users/abdirrahman/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-parser-0.7.0/src/range.rs:
+/Users/abdirrahman/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-parser-0.7.0/src/common.rs:
+/Users/abdirrahman/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-parser-0.7.0/src/recognize.rs:

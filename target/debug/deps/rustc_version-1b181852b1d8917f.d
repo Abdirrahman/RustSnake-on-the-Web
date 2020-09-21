@@ -1,0 +1,8 @@
+/Users/abdirrahman/Desktop/rustsgame/target/debug/deps/rustc_version-1b181852b1d8917f.rmeta: /Users/abdirrahman/.cargo/registry/src/github.com-1ecc6299db9ec823/rustc_version-0.2.3/src/lib.rs /Users/abdirrahman/.cargo/registry/src/github.com-1ecc6299db9ec823/rustc_version-0.2.3/src/errors.rs
+
+/Users/abdirrahman/Desktop/rustsgame/target/debug/deps/librustc_version-1b181852b1d8917f.rlib: /Users/abdirrahman/.cargo/registry/src/github.com-1ecc6299db9ec823/rustc_version-0.2.3/src/lib.rs /Users/abdirrahman/.cargo/registry/src/github.com-1ecc6299db9ec823/rustc_version-0.2.3/src/errors.rs
+
+/Users/abdirrahman/Desktop/rustsgame/target/debug/deps/rustc_version-1b181852b1d8917f.d: /Users/abdirrahman/.cargo/registry/src/github.com-1ecc6299db9ec823/rustc_version-0.2.3/src/lib.rs /Users/abdirrahman/.cargo/registry/src/github.com-1ecc6299db9ec823/rustc_version-0.2.3/src/errors.rs
+
+/Users/abdirrahman/.cargo/registry/src/github.com-1ecc6299db9ec823/rustc_version-0.2.3/src/lib.rs:
+/Users/abdirrahman/.cargo/registry/src/github.com-1ecc6299db9ec823/rustc_version-0.2.3/src/errors.rs:

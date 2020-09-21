@@ -1,0 +1,1 @@
+/Users/abdirrahman/Desktop/rustsgame/target/wasm32-unknown-unknown/debug/rustsgame.wasm: /Users/abdirrahman/Desktop/rustsgame/src/canvas.rs /Users/abdirrahman/Desktop/rustsgame/src/direction.rs /Users/abdirrahman/Desktop/rustsgame/src/main.rs /Users/abdirrahman/Desktop/rustsgame/src/snake.rs
